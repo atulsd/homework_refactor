@@ -2,16 +2,16 @@
 
 Semantic elements Added are:
 
-<header>
-<nav>
+header
+nav
 
-<section>
-<article>
+section
+article
 
-<aside>
-<article>
+aside
+article
 
-<footer>
+footer
 
 Replaced name of the classes with semantic elements in the CSS.
 
